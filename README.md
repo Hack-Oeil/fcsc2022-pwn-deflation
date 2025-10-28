@@ -11,7 +11,7 @@ Fichiers :
 
 
 
-Auteurs : [Cryptanalyse](https://twitter.com/Cryptanalyse) et XeR
+Auteurs : [Cryptanalyse](https://x.com/Cryptanalyse) et XeR
 
 Origine : [deflation](https://hackropole.fr/fr/challenges/pwn/fcsc2022-pwn-deflation/)
 
